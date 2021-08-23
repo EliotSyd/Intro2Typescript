@@ -4,7 +4,7 @@
   "description": "Welcome to the first part of Sidetrade's Code Academy course!",
   "main": "dist/app.js",
   "scripts": {
-    "start": "tsc && node app.js",
+    "start": "tsc && node dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
